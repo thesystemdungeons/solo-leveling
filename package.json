@@ -1,0 +1,20 @@
+{
+  "name": "solo-leveling",
+  "version": "0.0.1",
+  "description": "Solo Leveling discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Syntax#2793",
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "mongoose": "^5.6.9",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
